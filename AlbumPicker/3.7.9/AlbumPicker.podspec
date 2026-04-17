@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://trtc.io/'
   s.license          = { :type => 'MIT' }
   s.authors          = 'trtc.io'
-  s.source           = { :http => 'https://github.com/lzmlsfe/TestGit/releases/download/v3.7.9/AlbumPicker.zip' }
+  s.source           = { :http => 'https://github.com/lzmlsfe/TestGit/releases/download/3.7.9/AlbumPicker.zip' }
   s.ios.deployment_target = '13.0'
 
   s.dependency 'AlbumPickerCore'
